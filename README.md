@@ -5,6 +5,8 @@
 pip install Sublist3r
 ```
 
+### Ejecución
+
 ```
 Usage: getSubdomains.py [-h] -p PAGINA [-o OUTPUT] [-b]
 
